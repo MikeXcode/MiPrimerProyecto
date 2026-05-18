@@ -1,1 +1,2 @@
-Trxto de prueba, probando probando
+Texto de prueba, probando probando
+Este es un segundo dato agregado
